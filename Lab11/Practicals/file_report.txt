@@ -1,0 +1,14 @@
+FOLDER TREE REPORT
+==================
+Name: first.txt
+Size: 12 bytes
+Modified: 2026-10-28T06:50:53.5039213Z
+
+Name: second.txt
+Size: 29 bytes
+Modified: 2026-10-28T06:50:53.5049212Z
+
+Name: third.txt
+Size: 13 bytes
+Modified: 2026-10-28T06:50:53.5049212Z
+
